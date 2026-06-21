@@ -1,5 +1,3 @@
-#HrOne
-
 HrOne application
 
 Feature -1 : ROLE BASED ADMIN PANEL (SQLite DB)
